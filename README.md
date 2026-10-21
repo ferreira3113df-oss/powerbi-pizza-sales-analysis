@@ -37,7 +37,7 @@ Provides an overview of the restaurant's commercial performance.
 - Revenue trends over time.
 - Interactive filters by date, pizza size and category.
 
-![Sales Overview](screenshots/01-sales-overview.png)
+![Sales Overview](Imagens/01-sales-overview.png)
 
 ### 2. Peak Demand Analysis
 
@@ -51,7 +51,7 @@ Explores customer demand patterns to identify the restaurant's busiest periods.
 
 The dashboard identifies **12:00–13:00 as the peak demand hour** in the full-year view, providing useful information for staffing and operational planning.
 
-![Peak Demand Analysis](screenshots/02-peak-demand.png)
+![Peak Demand Analysis](Imagens/02-peak-demand.png)
 
 ### 3. Product & Menu Performance
 
@@ -66,11 +66,11 @@ Analyzes the contribution of individual products and categories to business reve
 
 This page can support menu optimization, promotional decisions and the identification of stronger and weaker-performing products.
 
-![Product Performance](screenshots/03-product-performance.png)
+![Product Performance](Imagens/03-product-performance.png)
 
 The following example demonstrates how product rankings and the Decomposition Tree respond to applied filters.
 
-![Filtered Product Analysis](screenshots/04-product-filtered.png)
+![Filtered Product Analysis](Imagens/04-product-filtered.png)
 
 ### 4. Customer & Order Behavior
 
@@ -91,7 +91,7 @@ In the full-year view, the dashboard shows:
 
 These indicators help characterize customer purchasing behavior and identify opportunities to increase order value.
 
-![Customer and Order Behavior](screenshots/05-customer-behavior.png)
+![Customer and Order Behavior](Imagens/05-customer-behavior.png)
 
 ### 5. Capacity & Operations
 
@@ -110,11 +110,11 @@ This analysis helps identify potential operational bottlenecks and supports capa
 
 Capacity indicators are based on modeling assumptions and should be interpreted as estimates rather than observed table occupancy.
 
-![Capacity and Operations](screenshots/06-capacity-operations.png)
+![Capacity and Operations](Imagens/06-capacity-operations.png)
 
 **Custom Tooltip Example**
 
-![Customized Tooltip](screenshots/07-custom-tooltip.png)
+![Custom Tooltip](Imagens/07-custom-tooltip.png)
 
 ## Tools & Techniques
 
